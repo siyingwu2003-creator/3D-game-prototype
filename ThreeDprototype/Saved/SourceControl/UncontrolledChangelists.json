@@ -9,9 +9,10 @@
 				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_Log.uasset",
 				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_LogSpawner.uasset",
 				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/3D_Spawn_obstacle_assignmentwork.umap",
-				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_LogDespawn.uasset",
 				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_LogDespawner.uasset",
-				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_Pendulem.uasset"
+				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_Pendulem.uasset",
+				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_Arrow.uasset",
+				"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Content/Blueprints/BP_LogDespawn.uasset"
 			]
 		}
 	]
