@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Intermediate/Source/ThreeDprototype.Build.cs",
+		"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Intermediate/Source/ThreeDprototype.Target.cs",
+		"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Intermediate/Source/ThreeDprototypeClient.Target.cs",
+		"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Intermediate/Source/ThreeDprototypeEditor.Target.cs",
+		"/Users/siyingwu/Documents/GitHub/3D-game-prototype/ThreeDprototype/Intermediate/Source/ThreeDprototypeServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
